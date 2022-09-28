@@ -1,3 +1,9 @@
+人脸识别
+① https://github.com/ageitgey/face_recognition
+深度学习 游戏AI
+① https://github.com/jingweiz/pytorch-rl
+
+
 # pygame_demo
 python 开发的游戏demo
 
