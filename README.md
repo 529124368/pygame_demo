@@ -8,3 +8,7 @@ How to run this game
 
 
 ② python main.py
+
+
+![image](https://user-images.githubusercontent.com/22612129/192792047-1c09d975-f1d0-4c75-8047-0fcfcfae4f59.png)
+
