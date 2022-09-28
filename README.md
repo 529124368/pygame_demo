@@ -1,14 +1,21 @@
 人脸识别
+
 ① https://github.com/ageitgey/face_recognition
 
+② http://www.demodashi.com/demo/18735.html
+
 深度学习 游戏AI
+
 ① https://github.com/jingweiz/pytorch-rl
 
 k8s 入门
+
 ① https://www.youtube.com/watch?v=ubz3cFgxeJA
 
 pygame 资料
+
 ① http://m.biancheng.net/pygame/event.html
+
 
 
 # pygame_demo
