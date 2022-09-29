@@ -8,6 +8,10 @@
 
 ① https://github.com/jingweiz/pytorch-rl
 
+深度学习 神经网络 可视化讲解
+
+① https://www.youtube.com/watch?v=MU03tMR1-CU
+
 k8s 入门
 
 ① https://www.youtube.com/watch?v=ubz3cFgxeJA
