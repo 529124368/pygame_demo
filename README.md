@@ -19,3 +19,4 @@ How to run this game
 
 
 
+![ezgif-4-d36d007ff2](https://user-images.githubusercontent.com/22612129/193192261-75e78280-b1e8-4249-a4f5-d2a739f31158.gif)
